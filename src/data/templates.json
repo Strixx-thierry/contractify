@@ -1,0 +1,46 @@
+[
+    {
+        "id": 13,
+        "title": "Software Development Contract",
+        "category": "Business",
+        "description": "Comprehensive agreement for software development projects including deliverables, timelines, and intellectual property rights.",
+        "fileType": "PDF",
+        "fileName": "Software-Development-Contract.pdf",
+        "filePath": "/src/content/Software-Development-Contract.pdf",
+        "downloads": "8.9K",
+        "popular": true
+    },
+    {
+        "id": 14,
+        "title": "Resignation Letter Template",
+        "category": "Employment",
+        "description": "Professional resignation letter template for leaving your current position on good terms.",
+        "fileType": "PDF",
+        "fileName": "Resignation-Letter-Template.pdf",
+        "filePath": "/src/content/Resignation-Letter-Template.pdf",
+        "downloads": "13.2K",
+        "popular": true
+    },
+    {
+        "id": 16,
+        "title": "Letter of Intent to Sue",
+        "category": "Legal",
+        "description": "Formal letter template notifying intent to pursue legal action if demands are not met.",
+        "fileType": "PDF",
+        "fileName": "Letter-of-Intent-to-Sue.pdf",
+        "filePath": "/src/content/Letter-of-Intent-to-Sue.pdf",
+        "downloads": "6.3K",
+        "popular": false
+    },
+    {
+        "id": 17,
+        "title": "Notary Signature Template",
+        "category": "Legal",
+        "description": "Standard notary signature block template for document authentication and verification.",
+        "fileType": "PDF",
+        "fileName": "Notary-Signature-Template.pdf",
+        "filePath": "/src/content/Notary-Signature-Template.pdf",
+        "downloads": "9.1K",
+        "popular": false
+    }
+]
