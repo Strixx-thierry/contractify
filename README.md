@@ -48,7 +48,7 @@ A modern, AI-powered contract management platform that helps you analyze contrac
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/Contractify.git
+git clone https://github.com/Strixx-thierry/contractify.git
 cd Contractify
 ```
 
